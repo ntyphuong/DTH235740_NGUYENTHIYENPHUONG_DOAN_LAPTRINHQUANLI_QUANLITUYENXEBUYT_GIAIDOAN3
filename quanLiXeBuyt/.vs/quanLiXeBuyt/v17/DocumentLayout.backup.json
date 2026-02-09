@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\giaodien\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:giaodien\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|d:\\cong nghe thong tin\\l\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0111\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\giai \u0111o\u1EA1n 3\\quanlixebuyt\\giaodien\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:giaodien\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|d:\\cong nghe thong tin\\l\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0111\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\giai \u0111o\u1EA1n 3\\quanlixebuyt\\giaodien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:giaodien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\giaodien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:giaodien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|d:\\cong nghe thong tin\\l\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0111\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\giai \u0111o\u1EA1n 3\\quanlixebuyt\\dulieu\\ketnoicsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:dulieu\\ketnoicsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|d:\\cong nghe thong tin\\l\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0111\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\giai \u0111o\u1EA1n 3\\quanlixebuyt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|d:\\cong nghe thong tin\\l\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0111\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\giai \u0111o\u1EA1n 3\\quanlixebuyt\\giaodien\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:giaodien\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|d:\\cong nghe thong tin\\l\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0111\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\giai \u0111o\u1EA1n 3\\quanlixebuyt\\nghiepvu\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446A796B-033E-4BBA-99F2-B2DFED8E6F4C}|quanLiXeBuyt.csproj|solutionrelative:nghiepvu\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,53 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "KetNoiCSDL.cs",
+              "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\DuLieu\\KetNoiCSDL.cs",
+              "RelativeDocumentMoniker": "DuLieu\\KetNoiCSDL.cs",
+              "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\DuLieu\\KetNoiCSDL.cs",
+              "RelativeToolTip": "DuLieu\\KetNoiCSDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T04:01:17.32Z",
+              "WhenOpened": "2026-02-09T04:47:32.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmChinh.cs",
-              "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmChinh.cs",
-              "RelativeDocumentMoniker": "GiaoDien\\frmChinh.cs",
-              "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmChinh.cs",
-              "RelativeToolTip": "GiaoDien\\frmChinh.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:35:06.805Z",
+              "WhenOpened": "2026-02-09T04:46:53.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmChinh.cs [Design]",
-              "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmChinh.cs",
-              "RelativeDocumentMoniker": "GiaoDien\\frmChinh.cs",
-              "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmChinh.cs [Design]",
-              "RelativeToolTip": "GiaoDien\\frmChinh.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "GiaoDien\\frmDangNhap.cs",
+              "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmDangNhap.cs",
+              "RelativeToolTip": "GiaoDien\\frmDangNhap.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:05:57.549Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-09T04:40:16.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "frmDangNhap.cs [Design]",
               "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmDangNhap.cs",
               "RelativeDocumentMoniker": "GiaoDien\\frmDangNhap.cs",
               "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\GiaoDien\\frmDangNhap.cs [Design]",
               "RelativeToolTip": "GiaoDien\\frmDangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:06:16.132Z",
+              "WhenOpened": "2026-02-09T04:38:12.382Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaHoa.cs",
+              "DocumentMoniker": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\NghiepVu\\MaHoa.cs",
+              "RelativeDocumentMoniker": "NghiepVu\\MaHoa.cs",
+              "ToolTip": "D:\\CONG NGHE THONG TIN\\L\u1EADp tr\u00ECnh qu\u1EA3n l\u00FD\\\u0110\u1ED3 \u00E1n c\u00E1 nh\u00E2n\\Giai \u0111o\u1EA1n 3\\quanLiXeBuyt\\NghiepVu\\MaHoa.cs",
+              "RelativeToolTip": "NghiepVu\\MaHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:36:49.703Z",
+              "EditorCaption": ""
             }
           ]
         }

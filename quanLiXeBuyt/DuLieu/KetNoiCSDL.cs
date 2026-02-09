@@ -23,6 +23,20 @@ namespace quanLiXeBuyt.DuLieu
             }
             return dt;
         }
+        public DataTable LayDuLieuVoiThamSo(string sql, MySqlParameter[] thamSo)
+        {
+            DataTable dt = new DataTable();
+            using (MySqlConnection conn = LayKetNoi())
+            {
+                MySqlCommand cmd = new MySqlCommand(sql, conn);
+                // Dòng này giúp đưa danh sách tham số vào câu lệnh SQL
+                if (thamSo != null) cmd.Parameters.AddRange(thamSo);
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                da.Fill(dt);
+            }
+            return dt;
+        }
 
         // Hàm thực thi (Thêm, Xóa, Sửa)
         public int ThucThi(string sql, MySqlParameter[] thamSo = null)

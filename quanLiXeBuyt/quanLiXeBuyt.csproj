@@ -151,6 +151,7 @@
     <Compile Include="GiaoDien\frmDangNhap.Designer.cs">
       <DependentUpon>frmDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="NghiepVu\MaHoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GiaoDien\frmChinh.resx">
@@ -185,7 +186,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DoiTuong\" />
-    <Folder Include="NghiepVu\" />
     <Folder Include="TienIch\" />
   </ItemGroup>
   <ItemGroup>
