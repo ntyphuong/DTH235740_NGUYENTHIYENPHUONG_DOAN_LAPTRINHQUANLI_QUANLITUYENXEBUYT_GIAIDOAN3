@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using quanLiXeBuyt.GiaoDien;
+using quanLiXeBuyt.DuLieu;  
 
 namespace quanLiXeBuyt
 {
@@ -16,7 +18,7 @@ namespace quanLiXeBuyt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new frmChinh());
+            Application.Run(new frmChinh());
         }
     }
 }
